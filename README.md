@@ -1,3 +1,7 @@
+
+  HEADOVER TO THIS BLOG FOR DETAILED DESCRIPTION 
+https://medium.com/@hamza.meehmood/comprehensive-monitoring-setup-with-prometheus-node-exporter-and-alert-manager-d8c455d36d80
+
 In this blog, we will see how to set up and configure monitoring tools for a DevOps project such as Node Exporter, Blackbox Exporter and Alert Manager and send notification to the team via email.
 
 Pre-requisites:
